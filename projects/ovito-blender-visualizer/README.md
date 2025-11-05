@@ -42,4 +42,4 @@
 
 ### Demo
 
-![Annealing demo](assets/recocido.gif)
+![Annealing demo](assets/recocido_annealing.gif)

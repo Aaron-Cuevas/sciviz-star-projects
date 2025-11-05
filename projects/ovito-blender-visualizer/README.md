@@ -39,3 +39,7 @@
 
 **atoms3.png** — Metal sphere prototype used as the instanced atom.  
 ![atoms3](../../docs/media/atoms3.png)
+
+### Demo
+
+![Annealing demo](assets/recocido.gif)

@@ -55,3 +55,5 @@ La estructuración, diseño de código y parte de la documentación de este repo
 fueron **asistidos por herramientas de inteligencia artificial**.
 Todas las contribuciones generadas con IA fueron **revisadas y validadas por personas**,
 siguiendo principios de transparencia, trazabilidad y responsabilidad en software científico.
+
+See the **annealing demo** in the subproject: [ovito-blender-visualizer](projects/ovito-blender-visualizer/README.md)
